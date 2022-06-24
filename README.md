@@ -13,8 +13,12 @@ Built with components like Coroutines, ViewModel, Room, Navigation component, Re
 This is the first step soon it will becoming a full fledged Notes application with all the desired features
 currently this is the first phase which included a basic working good Ui App.
 
+
 Screenshots
 -----------
+Here users can create notes, update them easily and at the same time get acquainted with the news
+
+
 <div>
   <img src="media/notesList.png" width="25%"/>
   <img src="media/newsList.png" width="25%"/>
