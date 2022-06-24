@@ -14,3 +14,13 @@ This is the first step soon it will becoming a full fledged Notes application wi
 currently this is the first phase which included a basic working good Ui App.
 
 Screenshots
+-----------
+<div>
+  <img src="media/notesList.png" width="25%"/>
+  <img src="media/newsList.png" width="25%"/>
+</div>
+
+<div>
+  <img src="media/addNote.png" width="25%"/>
+  <img src="media/updateNote.png" width="25%"/>
+</div>
