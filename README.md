@@ -1,7 +1,7 @@
 # btu_android_final
 
 A notes application with [MVVM architecture](https://developer.android.com/jetpack/guide).
-Built with components like Coroutines, ViewModel, Room, Navigation-Compose, Retrofit, Gson etc.
+Built with components like Coroutines, ViewModel, Room, Navigation component, Retrofit, Gson etc.
 
 
 #### This App showcases:
